@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Arkaedan
-- 👀 I’m interested in Automation, Cloud, and Space
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Dev Tools, Automation, Cloud, and Space
 - 📫 How to reach me: sam@samharris.dev
